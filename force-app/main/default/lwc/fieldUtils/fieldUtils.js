@@ -18,7 +18,8 @@ export const Fields = FieldTypes;
 export const UNSUPPORTED_REFERENCE_FIELDS = [
     'OwnerId',
     'CreatedById',
-    'LastModifiedById'
+    'LastModifiedById',
+    'RecordTypeId'
 ];
 
 export const labelAlignValues = LabelAlignValues;
